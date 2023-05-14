@@ -1,19 +1,19 @@
 # Mips Broth
 
-Nesse repositório mostro alguns códigos básicos em MIPS, com: 
+In this repository I show some basic codes in MIPS, with:
 
 - Loops
 - Whiles
-- Procedures (parâmetros, retornos)
+- Procedures (parameters, returns)
 
-Algumas definições serão importantes para entender o MIPS, nessa linguagem, usamos as instruções, que são bem básicas (algo definido pelos próprios engenheiros).
+Some definitions will be important to understand MIPS. In this language, we use instructions, which are quite basic (something defined by the engineers themselves).
 
-As instruções mips possuem uma estrutura básica:
+MIPS instructions have a basic structure:
 
-`{Comando} {Registrador destino}, {Registrador 1}, {Registrador 2}`
+`{Command} {Destination Register}, {Register 1}, {Register 2}`
 
-Um exemplo de código é a instrução de soma:
+An example of code is the addition instruction:
 
 `add $s0, $s1, $s2`
 
-*Nos códigos deste repositório temos comentário
+*In the codes of this repository, we have comments.
